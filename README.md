@@ -12,17 +12,16 @@ The recursive.php file executes a recursive function that performs a specific ta
 to show how recursion works in PHP. Each file can be run individually to observe its behavior, or all can be executed together through main.php.
 
 Recursive
-<img width="1436" height="830" alt="image" src="https://github.com/user-attachments/assets/60399c37-7210-43ac-b927-9d089c44a737" />
+<img width="1365" height="767" alt="Image" src="https://github.com/user-attachments/assets/4ae55de3-1a39-4573-b312-b72f48186437" />
 
 BST
-<img width="1425" height="832" alt="image" src="https://github.com/user-attachments/assets/82c7f1ea-de76-4dc3-8f43-c29180f82fce" />
+<img width="1365" height="767" alt="Image" src="https://github.com/user-attachments/assets/7a4e37dd-55b4-4dac-8eb0-038ffd4166c1" />
 
 hashtable
-<img width="1439" height="841" alt="image" src="https://github.com/user-attachments/assets/962635a0-0d45-4200-91b4-0d024345f1b3" />
+<img width="1365" height="767" alt="Image" src="https://github.com/user-attachments/assets/d98687e6-b88a-4a6c-be4e-f9f0797572db" />
 
 main
-<img width="1431" height="789" alt="image" src="https://github.com/user-attachments/assets/630275c6-5455-40c6-820d-571110620d8c" />
-
+<img width="1365" height="767" alt="Image" src="https://github.com/user-attachments/assets/15be037f-c92c-47ca-82c0-6666d01f1cf3" />
 
 
 
